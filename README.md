@@ -1,1 +1,1 @@
-# Contacts-List-Manager
+Contacts list manager imlementing OOP in C++
